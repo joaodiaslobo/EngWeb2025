@@ -1,12 +1,12 @@
 {
-  "name": "tpc1",
+  "name": "tpc2",
   "version": "1.0.0",
-  "description": "Car mechanic workshop",
+  "description": "Music school platform",
   "main": "server.js",
   "author": "João Lobo",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "json-server": "^1.0.0-beta.3"
   }
 }
